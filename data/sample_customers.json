@@ -1,0 +1,4 @@
+[
+  {"user_id":"user_1","name":"Ramesh","email":"ramesh@example.com","preferences":{"language":"en"}},
+  {"user_id":"user_2","name":"Priya","email":"priya@example.com","preferences":{"language":"en"}}
+]
