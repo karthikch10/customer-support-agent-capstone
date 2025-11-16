@@ -1,0 +1,7 @@
+sentence-transformers
+scikit-learn
+numpy
+pandas
+chromadb
+faiss-cpu
+# openai  # only if you will use OpenAI; remove if not needed
